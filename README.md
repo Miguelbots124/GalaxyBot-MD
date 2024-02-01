@@ -41,7 +41,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone(https://github.com/Miguelbots124/GalaxyBot-MD).git && cd GalaxyBot-MD
+git clone  https://github.com/Miguelbots124/GalaxyBot-MD.git && cd GalaxyBot-MD
 ```
 
 ```bash
