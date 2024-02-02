@@ -130,20 +130,7 @@ npm start
 
 ---------
 
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contacto
-
-- Si tiene algún problema la bot contactame ฅ^•ﻌ•^ฅ
-
-* <a href="https://wa.me/52 9373853455"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----------
-
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
-
-
-- Canal Oficial Del Bot
-
-* <a href="https://whatsapp.com/channel/0029VaMXMNX1CYoPGA5BGv1F"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=whi te"/></a>
+### Creador Miguel
 ---------
 
 ## `Colaboradores` 
