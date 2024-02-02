@@ -86,7 +86,7 @@ npm start
 
 - Si tiene algún problema la bot contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/51907913 096"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/52 9373853455"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -95,7 +95,7 @@ npm start
 
 - Canal Oficial Del Bot
 
-* <a href="https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://whatsapp.com/channel/0029VaMXMNX1CYoPGA5BGv1F"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=whi te"/></a>
 ---------
 
 ## `Colaboradores` 
