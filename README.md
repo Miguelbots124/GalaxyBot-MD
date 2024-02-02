@@ -77,15 +77,11 @@ src="https://telegra.ph/file/af2d01d2b9f01f8a96b69.jpg" width="400" height="230"
 ## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
 
 ```bash
-cd && termux-setup-storage
+termux-setup-storage
 ```
 
 ```bash
-apt-get update -y && apt-get upgrade -y
-```
-
-```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
@@ -94,14 +90,6 @@ git clone  https://github.com/Miguelbots124/GalaxyBot-MD.git && cd GalaxyBot-MD
 
 ```bash
 yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
 ```
 
 ```bash
@@ -130,7 +118,7 @@ npm start
 
 ---------
 
-### Creador Miguel
+### Creador Miguel y Daniel
 ---------
 
 ## `Colaboradores` 
