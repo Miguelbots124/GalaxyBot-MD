@@ -1,4 +1,5 @@
-### GALAXYBOT-MD 
+> <b>🚀 Versión actual: 1.5.5</b>
+ 
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=GalaxyBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
